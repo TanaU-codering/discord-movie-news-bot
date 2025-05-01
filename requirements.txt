@@ -1,4 +1,4 @@
-feedperser
+feedparser
 discord.py
 apscheduler
 python-dotenv
