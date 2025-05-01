@@ -1,0 +1,4 @@
+feedperser
+discord.py
+apscheduler
+python-dotenv
